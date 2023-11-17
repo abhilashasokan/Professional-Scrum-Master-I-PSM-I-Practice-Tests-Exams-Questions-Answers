@@ -1,24 +1,6 @@
 # ⬆️ Scrum Master I for PSM I Practice Tests Exams Questions & Answers
 
-![Promotional image](images/promotional.png)
-
-## Udemy & Etsy
-
-❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-master-i-psm-i-practice-tests-exams/?referralCode=AE50158A452A3EAB8A7E). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
-
-🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com/listing/1429943635).
-
-## ✨ This course is unlike any Scrum Master I for PSM I course you will find online.
-
-✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Master I (PSM I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
-
-[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
-
-## ⌛️ Short and to the point; why should you take the course:
-
-1. Always happy to answer your questions on Udemy's Q&A's and outside :)
-2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
-3. Learn about topics, such as:
+1. Learn about topics, such as:
    - Definition of Done (DoD);
    - Development Team;
    - Product Backlog;
@@ -35,7 +17,6 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Professional Scrum Master I (PSM I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 245 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -52,6 +33,10 @@
 - Delete 1 duplicated question, and 2 typos improvements.
 
 **[v1.1.2](../../releases/tag/v1.1.2): November 11, 2023.**
+
+- Fix all remaining typos with support of automated proofreading software and 1 wrong answer.
+
+**[v1.1.3]: November 11, 2023.**
 
 - Fix all remaining typos with support of automated proofreading software and 1 wrong answer.
 
