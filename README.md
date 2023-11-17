@@ -333,7 +333,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 246 | [The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do?](#the-ceo-asks-the-developers-to-add-a-very-important-item-to-a-sprint-that-is-in-progress-what-should-the-developers-do) |
 | 247 | [The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#the-scrum-team-must-choose-at-least-one-high-priority-process-improvement-item-identified-during-the-sprint-retrospective-and-place-it-in-the-sprint-backlog) |
 | 248 | [When does a Sprint conclude?](#when-does-a-sprint-conclude) |
-
+| 249 | [What are three incorrect, untrue, or misleading statements about Scrum?](#what-are-three-incorrect-untrue-or-misleading-statements-about-scrum) |
+| 250 | [Who creates the Definition of Done?](#who-creates-the-definition-of-done) |
+| 251 | [Which Scrum events are timeboxed?](#which-scrum-events-are-timeboxed) |
+ 
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
 
@@ -2560,6 +2563,38 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] When the Sprint Retrospective is complete.
 - [ ] When all the tasks are completed by the Developers.
 - [ ] When all Product Backlog items meet their Definition of Done.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What are three incorrect, untrue, or misleading statements about Scrum?
+
+- [x] Scrum is like traditional processes but with self-organization to replace Project Managers..
+- [ ] Each component of Scrum serves a specific purpose and is essential to your ability to use Scrum to develop complex products.
+- [ ] Scrum is a framework for developing and sustaining complex products.
+- [x] Scrum is a framework that eliminates complexity.
+- [x] Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your environment.
+- [ ] Scrum is founded on empiricism and lean thinking.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Who creates the Definition of Done?
+
+- [x] If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
+- [ ] The Scrum Master since they are responsible for the productivity of the Developers.
+- [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
+- [ ] The Product Owner since they are responsible for the product's success.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which Scrum events are timeboxed?
+
+- [ ] Refinement.
+- [ ] Release Retrospective.
+- [x] Sprint Review.
+- [ ] Release Testing.
+- [x] Sprint Planning.
+- [x] Sprint Retrospective.
+- [ ] Sprint Testing.
 
 **[⬆ Back to Top](#table-of-contents)**
 
