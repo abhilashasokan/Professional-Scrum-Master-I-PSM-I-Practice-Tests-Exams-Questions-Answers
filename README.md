@@ -1408,9 +1408,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A Development Team asks their Product Owner to re-order the Product Backlog. The team is waiting for an external supplier to deliver a specific software component. Without that component there won't be enough work in the next Sprint to occupy the full team. The Product Owner asks the Scrum Master for help. What would be good advice to give the Product Owner?
 
-- [x] Remind the Product Owner that his primary concern is the flow of value reflected in the ordering of the Product Backlog.
+- [ ] Remind the Product Owner that his primary concern is the flow of value reflected in the ordering of the Product Backlog.
 - [ ] Tell the Product Owner to re-order the Product Backlog so the work involving the external component can be planned in a separate sprint.
-- [ ] Tell the Product Owner that the Product Backlog should be ordered to maximize utilization of the Development Team.
+- [x] Tell the Product Owner that the Product Backlog should be ordered to maximize utilization of the Development Team.
 
 **[⬆ Back to Top](#table-of-contents)**
 
